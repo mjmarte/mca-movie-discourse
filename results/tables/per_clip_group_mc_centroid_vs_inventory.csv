@@ -1,0 +1,9 @@
+Clip,ClipName,HC_mc_to_inventory,PWA_mc_to_inventory,HC_all_to_inventory,PWA_all_to_inventory,PWA_minus_HC,n_HC_mc_utterances,n_HC_utterances,n_PWA_mc_utterances,n_PWA_utterances
+AKB,Akeelah and the Bee,0.1586,0.2213,0.3339,0.427,0.0627,69,363,32,351
+CMIYC,Catch Me If You Can,0.1585,0.1708,0.2235,0.2992,0.0123,150,353,62,278
+GWH,Good Will Hunting,0.1531,0.187,0.2918,0.4453,0.0339,84,336,29,323
+MIR,Miracle,0.0872,0.1238,0.155,0.2578,0.0366,71,151,46,202
+MOON,Moonlight,0.1799,0.1928,0.2839,0.3674,0.0128,77,248,45,289
+NCOM,No Country for Old Men,0.1356,0.1661,0.2602,0.3445,0.0305,78,344,42,313
+PT,The Parent Trap,0.1116,0.1531,0.2044,0.277,0.0415,108,390,54,371
+PC,Partly Cloudy,0.1103,0.1386,0.1583,0.2473,0.0283,206,433,93,309

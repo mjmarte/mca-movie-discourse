@@ -1,0 +1,31 @@
+{
+  "n_concepts": 39,
+  "per_clip": {
+    "AKB": 4,
+    "CMIYC": 5,
+    "GWH": 5,
+    "MIR": 6,
+    "MOON": 4,
+    "NCOM": 6,
+    "PT": 4,
+    "PC": 5
+  },
+  "median_production": 40.0,
+  "min_production": 22.5,
+  "max_production": 88.1,
+  "n_ge20": 39,
+  "n_ge33": 27,
+  "n_ge50": 9,
+  "n_ge70": 5,
+  "clips_ci_excludes_zero": 8,
+  "clips_hc_closer": 8,
+  "n_av_only": 7,
+  "n_subtitle_only": 5,
+  "n_both": 27,
+  "mean_production_av_only": 53.0,
+  "mean_production_subtitle": 40.8,
+  "mean_panel_support": 4.49,
+  "r_production_vs_d_completeness": 0.826,
+  "r_production_vs_d_distance": -0.267,
+  "n_boot": 5000
+}

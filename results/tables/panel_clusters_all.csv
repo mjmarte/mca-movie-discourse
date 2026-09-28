@@ -1,0 +1,55 @@
+clip,clip_name,label,role,support_runs,pct_hc,n_hc,n_hc_matched,retained
+AKB,Akeelah and the Bee,"The final round of the Scripps National Spelling Bee is down to two contestants, Dylan and Akeelah.",Setting,5,46.3,41,19,True
+AKB,Akeelah and the Bee,"The first contestant, Dylan, correctly spells his word, 'Logorrhea'.",Plan/Attempt,5,24.4,41,10,True
+AKB,Akeelah and the Bee,"Akeelah correctly spells ""Pulchritude,"" also winning the competition and becoming a co-champion.",Resolution,5,17.1,41,7,False
+AKB,Akeelah and the Bee,"Akeelah's family, friends, and classmates are shown celebrating her victory enthusiastically.",Resolution,5,34.1,41,14,True
+AKB,Akeelah and the Bee,"In a voiceover, Akeelah reflects that her achievement brings a feeling of safety and rightness.",Theme,5,14.6,41,6,False
+AKB,Akeelah and the Bee,"The second contestant, Akeelah, takes her turn to spell 'Pulchritude'.",Plan/Attempt,4,7.3,41,3,False
+AKB,Akeelah and the Bee,"After spelling his word, Dylan is declared a winner of the spelling bee.",Consequence,3,36.6,41,15,True
+CMIYC,Catch Me If You Can,"Frank, a young man in a pilot's uniform, meets his father for lunch at a fancy restaurant.",Setting,5,88.1,42,37,True
+CMIYC,Catch Me If You Can,Frank tries to give his father the keys to a new Cadillac.,InitiatingEvent,5,78.6,42,33,True
+CMIYC,Catch Me If You Can,"The father refuses the car, explaining he is in trouble with the IRS.",Consequence,5,47.6,42,20,True
+CMIYC,Catch Me If You Can,The father reveals he had to close his store due to pressure from the government.,InternalResponse,5,38.1,42,16,True
+CMIYC,Catch Me If You Can,The father becomes emotional about his relationship with Frank's mother and vows to fight for her.,InternalResponse,5,19.0,42,8,False
+CMIYC,Catch Me If You Can,"Despite his personal struggles, the father proudly makes a toast to his son, the pilot.",Resolution,5,57.1,42,24,True
+GWH,Good Will Hunting,"A younger man and an older man, who appears to be a psychologist, meet for a session in an office.",Setting,5,44.2,43,19,True
+GWH,Good Will Hunting,"The younger man psychoanalyzes the psychologist, suggesting the painting of a boat in a storm represents his own inner turmoil.",Plan/Attempt,5,23.3,43,10,True
+GWH,Good Will Hunting,The younger man provokes the psychologist by speculating that he married the wrong woman.,Plan/Attempt,5,23.3,43,10,True
+GWH,Good Will Hunting,"Enraged by the comments about his wife, the psychologist physically attacks the younger man and chokes him.",Consequence,5,30.2,43,13,True
+GWH,Good Will Hunting,"The younger man calmly ends the session by stating ""Time's up,"" which de-escalates the confrontation.",Resolution,5,7.0,43,3,False
+GWH,Good Will Hunting,"While holding him, the psychologist threatens to kill the young man if he ever disrespects his wife again.",Consequence,3,41.9,43,18,True
+MIR,Miracle,A coach gives a motivational speech to his hockey team in a locker room before a game.,Setting,5,34.5,29,10,True
+MIR,Miracle,"The coach acknowledges that their opponents, the Soviets, are a formidable team that would usually win.",Other,5,27.6,29,8,True
+MIR,Miracle,"The players listen intently to the coach, their expressions shifting from somber to focused and determined.",InternalResponse,5,0.0,29,0,False
+MIR,Miracle,The coach frames the game as a rare opportunity that the players have earned.,Plan/Attempt,4,6.9,29,2,False
+MIR,Miracle,"After the speech, the motivated team gets up and heads out of the locker room to play the game.",Resolution,4,34.5,29,10,True
+MIR,Miracle,"The coach insists that despite the odds, they can and will win this specific game tonight.",Plan/Attempt,3,27.6,29,8,True
+MIR,Miracle,The coach concludes by commanding the team to go out and take their moment.,Consequence,3,27.6,29,8,True
+MIR,Miracle,The coach builds the team's confidence by telling them they were born to be hockey players and this is their moment.,Theme,3,44.8,29,13,True
+MOON,Moonlight,A man takes a young boy to the beach to teach him how to swim.,InitiatingEvent,5,81.8,33,27,True
+MOON,Moonlight,The boy successfully swims on his own for the first time.,Consequence,5,15.2,33,5,False
+MOON,Moonlight,"The man recounts a story of an old lady who said that in moonlight, black boys look blue, and nicknamed him ""Blue"".",Consequence,5,33.3,33,11,True
+MOON,Moonlight,The man advises the boy that he must decide for himself who he is going to be.,Resolution,5,33.3,33,11,True
+MOON,Moonlight,"The man gently supports the boy in the water, reassuring him that he is safe.",Plan/Attempt,4,6.1,33,2,False
+MOON,Moonlight,"After swimming, the man tells the boy about Black identity and his own origins in Cuba.",Plan/Attempt,4,30.3,33,10,True
+NCOM,No Country for Old Men,An older man who appears to be a store clerk is closing his shop when a customer engages him in a personal conversation.,Setting,5,22.5,40,9,True
+NCOM,No Country for Old Men,The customer flips a coin and relentlessly pressures the confused and frightened shopkeeper to call it.,Plan/Attempt,5,25.0,40,10,True
+NCOM,No Country for Old Men,"After hesitating, the shopkeeper gives in and calls 'Heads'.",Consequence,5,30.0,40,12,True
+NCOM,No Country for Old Men,"The clerk wins the coin toss, and the customer warns him not to mix the 'lucky quarter' with other coins.",Resolution,5,30.0,40,12,True
+NCOM,No Country for Old Men,The customer asks the shopkeeper a series of probing and personal questions about his life.,InitiatingEvent,4,30.0,40,12,True
+NCOM,No Country for Old Men,The customer explains that the coin toss represents the shopkeeper's entire life and that the stakes are 'everything'.,Plan/Attempt,4,37.5,40,15,True
+NCOM,No Country for Old Men,"The clerk is visibly confused and frightened, repeatedly asking what the coin toss is for.",InternalResponse,3,12.5,40,5,False
+PT,The Parent Trap,A girl named Hal is picked up by her father at an airport after returning from summer camp.,Setting,5,75.0,44,33,True
+PT,The Parent Trap,The girl explains her changed behavior by claiming she deeply missed being able to say the word 'Dad'.,Plan/Attempt,5,40.9,44,18,True
+PT,The Parent Trap,"Upon arriving home, they are greeted by a woman named Chessy.",Consequence,5,0.0,44,0,False
+PT,The Parent Trap,"Chessy also senses that Hal has changed, but the girl denies it, claiming to be the 'same old me.'",Resolution,4,6.8,44,3,False
+PT,The Parent Trap,The father and daughter share an emotional hug upon their reunion.,InitiatingEvent,4,13.6,44,6,False
+PT,The Parent Trap,The father notices that his daughter seems different since returning from camp.,InitiatingEvent,3,43.2,44,19,True
+PT,The Parent Trap,"The clip visually reveals two identical-looking girls on a porch, implying the girl who came home has switched places with a twin.",Resolution,3,40.9,44,18,True
+PC,Partly Cloudy,"In a sky world, clouds create babies and storks deliver them.",Setting,5,63.8,47,30,True
+PC,Partly Cloudy,"A lone grey cloud creates dangerous baby animals, unlike the other clouds who create cute ones.",InitiatingEvent,5,74.5,47,35,True
+PC,Partly Cloudy,The stork partnered with the grey cloud is repeatedly injured by the babies he has to deliver.,Consequence,5,55.3,47,26,True
+PC,Partly Cloudy,"Feeling abandoned, the grey cloud becomes heartbroken and unleashes a thunderstorm.",InternalResponse,5,40.4,47,19,True
+PC,Partly Cloudy,"After seeing the next creation is a baby shark, the terrified stork flies away, making the cloud think he has been abandoned.",Plan/Attempt,3,57.4,47,27,True
+PC,Partly Cloudy,The stork returns wearing a football helmet and shoulder pads for protection.,Resolution,3,14.9,47,7,False
+PC,Partly Cloudy,"The cloud is overjoyed, and the two friends reconcile, continuing their work together with the stork now safe.",Resolution,3,14.9,47,7,False

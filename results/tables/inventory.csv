@@ -1,0 +1,40 @@
+Clip,ClipName,MC_ID,Concept,Role,Grounding,SupportRuns,PctHC,NHC,NHCmatched
+AKB,Akeelah and the Bee,MC-01,"The final round of the Scripps National Spelling Bee is down to two contestants, Dylan and Akeelah.",Setting,Both,5,46.3,41,19
+AKB,Akeelah and the Bee,MC-02,"The first contestant, Dylan, correctly spells his word, 'Logorrhea'.",Plan/Attempt,Both,5,24.4,41,10
+AKB,Akeelah and the Bee,MC-03,"Akeelah's family, friends, and classmates are shown celebrating her victory enthusiastically.",Resolution,Audiovisual,5,34.1,41,14
+AKB,Akeelah and the Bee,MC-04,"After spelling his word, Dylan is declared a winner of the spelling bee.",Consequence,Both,3,36.6,41,15
+CMIYC,Catch Me If You Can,MC-01,"Frank, a young man in a pilot's uniform, meets his father for lunch at a fancy restaurant.",Setting,Both,5,88.1,42,37
+CMIYC,Catch Me If You Can,MC-02,Frank tries to give his father the keys to a new Cadillac.,InitiatingEvent,Both,5,78.6,42,33
+CMIYC,Catch Me If You Can,MC-03,"The father refuses the car, explaining he is in trouble with the IRS.",Consequence,Both,5,47.6,42,20
+CMIYC,Catch Me If You Can,MC-04,The father reveals he had to close his store due to pressure from the government.,InternalResponse,Both,5,38.1,42,16
+CMIYC,Catch Me If You Can,MC-05,"Despite his personal struggles, the father proudly makes a toast to his son, the pilot.",Resolution,Both,5,57.1,42,24
+GWH,Good Will Hunting,MC-01,"A younger man and an older man, who appears to be a psychologist, meet for a session in an office.",Setting,Both,5,44.2,43,19
+GWH,Good Will Hunting,MC-02,"The younger man psychoanalyzes the psychologist, suggesting the painting of a boat in a storm represents his own inner turmoil.",Plan/Attempt,Both,5,23.3,43,10
+GWH,Good Will Hunting,MC-03,The younger man provokes the psychologist by speculating that he married the wrong woman.,Plan/Attempt,Subtitles,5,23.3,43,10
+GWH,Good Will Hunting,MC-04,"Enraged by the comments about his wife, the psychologist physically attacks the younger man and chokes him.",Consequence,Both,5,30.2,43,13
+GWH,Good Will Hunting,MC-05,"While holding him, the psychologist threatens to kill the young man if he ever disrespects his wife again.",Consequence,Both,3,41.9,43,18
+MIR,Miracle,MC-01,A coach gives a motivational speech to his hockey team in a locker room before a game.,Setting,Both,5,34.5,29,10
+MIR,Miracle,MC-02,"The coach acknowledges that their opponents, the Soviets, are a formidable team that would usually win.",Other,Subtitles,5,27.6,29,8
+MIR,Miracle,MC-03,"After the speech, the motivated team gets up and heads out of the locker room to play the game.",Resolution,Both,4,34.5,29,10
+MIR,Miracle,MC-04,"The coach insists that despite the odds, they can and will win this specific game tonight.",Plan/Attempt,Both,3,27.6,29,8
+MIR,Miracle,MC-05,The coach concludes by commanding the team to go out and take their moment.,Consequence,Both,3,27.6,29,8
+MIR,Miracle,MC-06,The coach builds the team's confidence by telling them they were born to be hockey players and this is their moment.,Theme,Both,3,44.8,29,13
+MOON,Moonlight,MC-01,A man takes a young boy to the beach to teach him how to swim.,InitiatingEvent,Both,5,81.8,33,27
+MOON,Moonlight,MC-02,"The man recounts a story of an old lady who said that in moonlight, black boys look blue, and nicknamed him ""Blue"".",Consequence,Subtitles,5,33.3,33,11
+MOON,Moonlight,MC-03,The man advises the boy that he must decide for himself who he is going to be.,Resolution,Both,5,33.3,33,11
+MOON,Moonlight,MC-04,"After swimming, the man tells the boy about Black identity and his own origins in Cuba.",Plan/Attempt,Both,4,30.3,33,10
+NCOM,No Country for Old Men,MC-01,An older man who appears to be a store clerk is closing his shop when a customer engages him in a personal conversation.,Setting,Both,5,22.5,40,9
+NCOM,No Country for Old Men,MC-02,The customer flips a coin and relentlessly pressures the confused and frightened shopkeeper to call it.,Plan/Attempt,Both,5,25.0,40,10
+NCOM,No Country for Old Men,MC-03,"After hesitating, the shopkeeper gives in and calls 'Heads'.",Consequence,Both,5,30.0,40,12
+NCOM,No Country for Old Men,MC-04,"The clerk wins the coin toss, and the customer warns him not to mix the 'lucky quarter' with other coins.",Resolution,Both,5,30.0,40,12
+NCOM,No Country for Old Men,MC-05,The customer asks the shopkeeper a series of probing and personal questions about his life.,InitiatingEvent,Subtitles,4,30.0,40,12
+NCOM,No Country for Old Men,MC-06,The customer explains that the coin toss represents the shopkeeper's entire life and that the stakes are 'everything'.,Plan/Attempt,Subtitles,4,37.5,40,15
+PT,The Parent Trap,MC-01,A girl named Hal is picked up by her father at an airport after returning from summer camp.,Setting,Both,5,75.0,44,33
+PT,The Parent Trap,MC-02,The girl explains her changed behavior by claiming she deeply missed being able to say the word 'Dad'.,Plan/Attempt,Both,5,40.9,44,18
+PT,The Parent Trap,MC-03,The father notices that his daughter seems different since returning from camp.,InitiatingEvent,Both,3,43.2,44,19
+PT,The Parent Trap,MC-04,"The clip visually reveals two identical-looking girls on a porch, implying the girl who came home has switched places with a twin.",Resolution,Audiovisual,3,40.9,44,18
+PC,Partly Cloudy,MC-01,"In a sky world, clouds create babies and storks deliver them.",Setting,Audiovisual,5,63.8,47,30
+PC,Partly Cloudy,MC-02,"A lone grey cloud creates dangerous baby animals, unlike the other clouds who create cute ones.",InitiatingEvent,Audiovisual,5,74.5,47,35
+PC,Partly Cloudy,MC-03,The stork partnered with the grey cloud is repeatedly injured by the babies he has to deliver.,Consequence,Audiovisual,5,55.3,47,26
+PC,Partly Cloudy,MC-04,"Feeling abandoned, the grey cloud becomes heartbroken and unleashes a thunderstorm.",InternalResponse,Audiovisual,5,40.4,47,19
+PC,Partly Cloudy,MC-05,"After seeing the next creation is a baby shark, the terrified stork flies away, making the cloud think he has been abandoned.",Plan/Attempt,Audiovisual,3,57.4,47,27

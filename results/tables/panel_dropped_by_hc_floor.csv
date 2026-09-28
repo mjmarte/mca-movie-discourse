@@ -1,0 +1,16 @@
+clip,clip_name,label,role,support_runs,pct_hc,n_hc,n_hc_matched,retained
+AKB,Akeelah and the Bee,"Akeelah correctly spells ""Pulchritude,"" also winning the competition and becoming a co-champion.",Resolution,5,17.1,41,7,False
+AKB,Akeelah and the Bee,"In a voiceover, Akeelah reflects that her achievement brings a feeling of safety and rightness.",Theme,5,14.6,41,6,False
+AKB,Akeelah and the Bee,"The second contestant, Akeelah, takes her turn to spell 'Pulchritude'.",Plan/Attempt,4,7.3,41,3,False
+CMIYC,Catch Me If You Can,The father becomes emotional about his relationship with Frank's mother and vows to fight for her.,InternalResponse,5,19.0,42,8,False
+GWH,Good Will Hunting,"The younger man calmly ends the session by stating ""Time's up,"" which de-escalates the confrontation.",Resolution,5,7.0,43,3,False
+MIR,Miracle,"The players listen intently to the coach, their expressions shifting from somber to focused and determined.",InternalResponse,5,0.0,29,0,False
+MIR,Miracle,The coach frames the game as a rare opportunity that the players have earned.,Plan/Attempt,4,6.9,29,2,False
+MOON,Moonlight,The boy successfully swims on his own for the first time.,Consequence,5,15.2,33,5,False
+MOON,Moonlight,"The man gently supports the boy in the water, reassuring him that he is safe.",Plan/Attempt,4,6.1,33,2,False
+NCOM,No Country for Old Men,"The clerk is visibly confused and frightened, repeatedly asking what the coin toss is for.",InternalResponse,3,12.5,40,5,False
+PT,The Parent Trap,"Upon arriving home, they are greeted by a woman named Chessy.",Consequence,5,0.0,44,0,False
+PT,The Parent Trap,"Chessy also senses that Hal has changed, but the girl denies it, claiming to be the 'same old me.'",Resolution,4,6.8,44,3,False
+PT,The Parent Trap,The father and daughter share an emotional hug upon their reunion.,InitiatingEvent,4,13.6,44,6,False
+PC,Partly Cloudy,The stork returns wearing a football helmet and shoulder pads for protection.,Resolution,3,14.9,47,7,False
+PC,Partly Cloudy,"The cloud is overjoyed, and the two friends reconcile, continuing their work together with the stork now safe.",Resolution,3,14.9,47,7,False

@@ -1,0 +1,17 @@
+{
+ "n_utterances": 5054,
+ "n_closest": 256,
+ "closest_share": 0.05,
+ "hc_share_of_closest": 72.265625,
+ "hc_share_of_all": 51.8005540166205,
+ "hc_share_of_closest_by_clip": {
+  "Akeelah": 66.66666666666666,
+  "Catch Me": 75.0,
+  "Good Will": 84.84848484848484,
+  "Miracle": 72.22222222222221,
+  "Moonlight": 70.37037037037037,
+  "No Country": 63.63636363636363,
+  "Parent Trap": 69.23076923076923,
+  "Partly Cloudy": 76.31578947368422
+ }
+}
